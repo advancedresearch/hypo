@@ -37,7 +37,7 @@ that returns `true` is as close as possible to half the total number of hypothes
 In [path semantical notation](https://github.com/advancedresearch/path_semantics),
 the following measure is minimized over `e`:
 
-```
+```text
 abs(|h : (prediction e)| - |Hypothesis| / 2)
 
 h : Hypothesis
